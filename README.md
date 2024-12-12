@@ -19,8 +19,8 @@ Welcome to my **LeetCode Solutions Repository**! 🚀 This repository contains a
 
 | **Difficulty** | **Solved** |
 |----------------|------------|
-| Easy           | [Count]    |
-| Medium         | [2]        |
+| Easy           | [2]        |
+| Medium         | [3]        |
 | Hard           | [Count]    |
 
 ## 🚀 Goals
