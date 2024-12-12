@@ -31,7 +31,7 @@ Welcome to my **LeetCode Solutions Repository**! 🚀 This repository contains a
 
 ## 🛠️ Technologies Used
 
-- **Programming Languages**: Primarily [Your Primary Language], but other languages may also be used.
+- **Programming Languages**: Primarily C, but other languages may also be used.
 - **Version Control**: Git
 - **Hosting**: GitHub
 
