@@ -19,7 +19,7 @@ Welcome to my **LeetCode Solutions Repository**! 🚀 This repository contains a
 
 | **Difficulty** | **Solved** |
 |----------------|------------|
-| Easy           | [2]        |
+| Easy           | [3]        |
 | Medium         | [3]        |
 | Hard           | [Count]    |
 
